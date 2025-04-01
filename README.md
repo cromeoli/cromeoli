@@ -1,6 +1,6 @@
 ## Hello there!!
 
-My name is Christian, Junior Software Engineer and passionate about tech, science, learning and science fiction.
+My name is Christian, Junior Software Developer and passionate about tech, science, learning and science fiction.
 
 - 💼 Currently working at [MarinWBanet](https://marinwbanet.com/)
 - 🎓 Certificate of Higher Education (HNC) in Web Development by IES Rafael Alberti
